@@ -38,6 +38,19 @@ These are topic areas, not a commitment to create a page for every keyword. Cont
 
 Open [design/wireframe.html](design/wireframe.html) for the responsive homepage and pattern-page prototype. Use the preview controls to switch between layouts and test the pattern filters.
 
+## MVP site structure
+
+- [Homepage](index.html)
+- [Start Here guide](start-here.html)
+- [Filtered pattern library](patterns.html)
+- [Pattern detail template](pattern-template.html) — draft with noindex; not a live pattern
+
+Preview locally from the repository root with `python -m http.server 8000`, then open `http://localhost:8000`. The current pages intentionally remain noindex; downloads, email signup, trust pages, and real tested patterns are not connected yet.
+
+## Design preview
+
+Open [design/wireframe.html](design/wireframe.html) for the original two-view design concept.
+
 ## Content standards
 
 See [docs/CONTENT-MOAT-SOP.md](docs/CONTENT-MOAT-SOP.md) for the complete public publishing standard, including opportunity selection, quality review, pattern readiness, monetization, and release checks.
