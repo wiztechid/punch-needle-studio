@@ -34,6 +34,10 @@ Our advantage comes from combining practical craft information with original, us
 
 These are topic areas, not a commitment to create a page for every keyword. Content is published when the reader task, evidence, and useful page scope justify it.
 
+## Design preview
+
+Open [design/wireframe.html](design/wireframe.html) for the responsive homepage and pattern-page prototype. Use the preview controls to switch between layouts and test the pattern filters.
+
 ## Content standards
 
 See [docs/CONTENT-MOAT-SOP.md](docs/CONTENT-MOAT-SOP.md) for the complete public publishing standard, including opportunity selection, quality review, pattern readiness, monetization, and release checks.
