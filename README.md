@@ -34,8 +34,8 @@ Our advantage comes from combining practical craft information with original, us
 
 These are topic areas, not a commitment to create a page for every keyword. Content is published when the reader task, evidence, and useful page scope justify it.
 
-## Repository boundary
+## Content standards
 
-This public repository contains approved public-facing material and non-sensitive implementation guidance. Private keyword research, raw SERP notes, proprietary scoring, unpublished pattern masters, test logs, credentials, and personal feedback are maintained outside this repository.
+See [docs/CONTENT-MOAT-SOP.md](docs/CONTENT-MOAT-SOP.md) for the complete public publishing standard, including opportunity selection, quality review, pattern readiness, monetization, and release checks.
 
-The private master SOP is the internal source for detailed research and release governance. This README is its public-facing summary, not a copy of private scoring rules or research data.
+Raw keyword exports, query-level SERP notes, unpublished pattern masters, private feedback, credentials, and personal data stay outside this public repository.
